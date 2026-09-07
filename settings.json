@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "mrcoolguy",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "ArtapanSMP.aternos.me",
+    "port": 28813,
     "version": "",
     "try-creative": false
   },
